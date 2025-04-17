@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: d436f9306d1867c44b4d0c5c013fcb7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6353259541176127035
+    second: Sand Mud Ice (16x6)_0
+  - first:
+      213: 6167641977362757515
+    second: Sand Mud Ice (16x6)_1
+  - first:
+      213: 3626576778737192768
+    second: Sand Mud Ice (16x6)_2
+  - first:
+      213: -1886096266530949241
+    second: Sand Mud Ice (16x6)_3
+  - first:
+      213: -5355285561447925931
+    second: Sand Mud Ice (16x6)_4
+  - first:
+      213: 4326055876113354620
+    second: Sand Mud Ice (16x6)_5
+  - first:
+      213: 6231837862191567109
+    second: Sand Mud Ice (16x6)_6
+  - first:
+      213: 3089715790878325539
+    second: Sand Mud Ice (16x6)_7
+  - first:
+      213: 2592927809764433442
+    second: Sand Mud Ice (16x6)_8
+  - first:
+      213: -7049460874815310564
+    second: Sand Mud Ice (16x6)_9
+  - first:
+      213: -756588449674228840
+    second: Sand Mud Ice (16x6)_10
+  - first:
+      213: -5139483833580122578
+    second: Sand Mud Ice (16x6)_11
+  - first:
+      213: -2762073995133416762
+    second: Sand Mud Ice (16x6)_12
+  - first:
+      213: -8137486253352134369
+    second: Sand Mud Ice (16x6)_13
+  - first:
+      213: 7959445667963325942
+    second: Sand Mud Ice (16x6)_14
+  - first:
+      213: -4092149821824468057
+    second: Sand Mud Ice (16x6)_15
+  - first:
+      213: -2949986492328228125
+    second: Sand Mud Ice (16x6)_16
+  - first:
+      213: 6294569018857245732
+    second: Sand Mud Ice (16x6)_17
+  - first:
+      213: -8813512993246199862
+    second: Sand Mud Ice (16x6)_18
+  - first:
+      213: 4263242007108318073
+    second: Sand Mud Ice (16x6)_19
+  - first:
+      213: 2689398577134263771
+    second: Sand Mud Ice (16x6)_20
+  - first:
+      213: 2113908248476102448
+    second: Sand Mud Ice (16x6)_21
+  - first:
+      213: 6832011233148574984
+    second: Sand Mud Ice (16x6)_22
+  - first:
+      213: -5139339171710620609
+    second: Sand Mud Ice (16x6)_23
+  - first:
+      213: -5152155600372618435
+    second: Sand Mud Ice (16x6)_24
+  - first:
+      213: 8053830544482634923
+    second: Sand Mud Ice (16x6)_25
+  - first:
+      213: -8884820511876549848
+    second: Sand Mud Ice (16x6)_26
+  - first:
+      213: -6652587922537504266
+    second: Sand Mud Ice (16x6)_27
+  - first:
+      213: 7980830890365145323
+    second: Sand Mud Ice (16x6)_28
+  - first:
+      213: -8170579307771657102
+    second: Sand Mud Ice (16x6)_29
+  - first:
+      213: 7668828061770806365
+    second: Sand Mud Ice (16x6)_30
+  - first:
+      213: 894897704796957623
+    second: Sand Mud Ice (16x6)_31
+  - first:
+      213: -7851025316485012550
+    second: Sand Mud Ice (16x6)_32
+  - first:
+      213: -6536004677518967806
+    second: Sand Mud Ice (16x6)_33
+  - first:
+      213: 6215390559552578964
+    second: Sand Mud Ice (16x6)_34
+  - first:
+      213: -4810813019428552345
+    second: Sand Mud Ice (16x6)_35
+  - first:
+      213: -3036474563160157822
+    second: Sand Mud Ice (16x6)_36
+  - first:
+      213: 6374937487718563156
+    second: Sand Mud Ice (16x6)_37
+  - first:
+      213: -951019687346930432
+    second: Sand Mud Ice (16x6)_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677030d1206ed5442b9bc01da6fd1659
+      internalID: 1724093452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ea2c1bba3d4e4081c1659a4d46897
+      internalID: -1312270012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea88834a833264f8d878df9a7aff89
+      internalID: 356229000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940ada5e646f5345b4c6d8ea3ff9c97
+      internalID: -2060874279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff54d8550d5804d92b2d477e73f939
+      internalID: -2012367992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc274a4d64b9cfd4d8ebddb2ce57f088
+      internalID: 439971956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76183c1250c4ba44bafdd01f8d1cc640
+      internalID: 1022351601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905fe56a1727134a942f5ab9374fec3
+      internalID: -180121778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a08fa9424e22c8438b0270f4ad0b84f
+      internalID: -1820674422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098044b400b060148a3a6ed5fdf2e7bb
+      internalID: 1051685767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd66136eb9bdc459a09e3405dfb1c5
+      internalID: 680372149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998533d55c1332d4f8c7252e367fce35
+      internalID: 77849120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a291b054490acd3438b3b5f911d5c44e
+      internalID: -1341791992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9041d90ae8a984e49b95235359b6fab5
+      internalID: -1692506405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948f5de48ca90e4b9a1c3adc237fe09
+      internalID: -1110071562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a89bb7a1af6b94a82e5bbf30707c81
+      internalID: 1975203650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94758fc623de0f4499b1be6300727101
+      internalID: 951022938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5b9724f9f6f44ebba027140d07f29
+      internalID: -1531835908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec53d890acfc84bac4f1fbc81b94aa
+      internalID: -913476721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aaa30c091566f44b9acbc452fdbee1
+      internalID: 1045616888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c195a82ba548941b2cb2cf3b5d1654
+      internalID: -1304058632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23326a7777dbc29419277e8bc483a93e
+      internalID: -541499036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9cc513a79b4bb40af24faed365c469
+      internalID: -421204210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c3820b26795b469f75ea556a00fda
+      internalID: -1869698920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a60a168c96cba479f878e45a0b0d4a
+      internalID: 1056340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7f2d240f3ffe4f91455e6c5e39d5e
+      internalID: 1793883224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0742555f57934348ab11b24633c0358
+      internalID: -1398325909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dae599ca66bef41ab060a4d084979f
+      internalID: -1669713999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c026fa1c8e6c44db80d6f331a723bb
+      internalID: 721575311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61377c0e66bd0a54b8e7a2dc0e40d44a
+      internalID: 1407312151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79dd112d1f25c4dbd174e3471be314
+      internalID: -1431623287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449db9aeade39ac498d8a51e579425c5
+      internalID: -625333722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f34763b3f9884b8be1e8e84e780e1
+      internalID: 1977125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479350bae480fa4e99627f73b60de8e
+      internalID: -1214671951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4bbb7cc6bf614494792a2db2a18ec
+      internalID: -37818194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f5bd57e0e2554ea4a0f18827fad92
+      internalID: 815806931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a7a39bcd955e4b837816faf110dba
+      internalID: 820845900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f890d8facfff53498d33cb0f7932507
+      internalID: 2062048044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sand Mud Ice Sliced (16x6)_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee79b89e9a7e05478616de679af23de
+      internalID: -1083883108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sand Mud Ice Sliced (16x6)_0: 1724093452
+      Sand Mud Ice Sliced (16x6)_1: -1312270012
+      Sand Mud Ice Sliced (16x6)_10: 680372149
+      Sand Mud Ice Sliced (16x6)_11: 77849120
+      Sand Mud Ice Sliced (16x6)_12: -1341791992
+      Sand Mud Ice Sliced (16x6)_13: -1692506405
+      Sand Mud Ice Sliced (16x6)_14: -1110071562
+      Sand Mud Ice Sliced (16x6)_15: 1975203650
+      Sand Mud Ice Sliced (16x6)_16: 951022938
+      Sand Mud Ice Sliced (16x6)_17: -1531835908
+      Sand Mud Ice Sliced (16x6)_18: -913476721
+      Sand Mud Ice Sliced (16x6)_19: 1045616888
+      Sand Mud Ice Sliced (16x6)_2: 356229000
+      Sand Mud Ice Sliced (16x6)_20: -1304058632
+      Sand Mud Ice Sliced (16x6)_21: -541499036
+      Sand Mud Ice Sliced (16x6)_22: -421204210
+      Sand Mud Ice Sliced (16x6)_23: -1869698920
+      Sand Mud Ice Sliced (16x6)_24: 1056340330
+      Sand Mud Ice Sliced (16x6)_25: 1793883224
+      Sand Mud Ice Sliced (16x6)_26: -1398325909
+      Sand Mud Ice Sliced (16x6)_27: -1669713999
+      Sand Mud Ice Sliced (16x6)_28: 721575311
+      Sand Mud Ice Sliced (16x6)_29: 1407312151
+      Sand Mud Ice Sliced (16x6)_3: -2060874279
+      Sand Mud Ice Sliced (16x6)_30: -1431623287
+      Sand Mud Ice Sliced (16x6)_31: -625333722
+      Sand Mud Ice Sliced (16x6)_32: 1977125500
+      Sand Mud Ice Sliced (16x6)_33: -1214671951
+      Sand Mud Ice Sliced (16x6)_34: -37818194
+      Sand Mud Ice Sliced (16x6)_35: 815806931
+      Sand Mud Ice Sliced (16x6)_36: 820845900
+      Sand Mud Ice Sliced (16x6)_37: 2062048044
+      Sand Mud Ice Sliced (16x6)_38: -1083883108
+      Sand Mud Ice Sliced (16x6)_4: -2012367992
+      Sand Mud Ice Sliced (16x6)_5: 439971956
+      Sand Mud Ice Sliced (16x6)_6: 1022351601
+      Sand Mud Ice Sliced (16x6)_7: -180121778
+      Sand Mud Ice Sliced (16x6)_8: -1820674422
+      Sand Mud Ice Sliced (16x6)_9: 1051685767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
